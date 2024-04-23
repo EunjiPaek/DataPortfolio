@@ -1,7 +1,7 @@
 # DataPortfolio
 
 
-###Welcome to my GitHub repository showcasing a collection of SQL projects! 
+### Welcome to my GitHub repository showcasing a collection of SQL projects! 
 
 From data analysis to database management, this repository is a testament to my passion for harnessing the power of SQL to derive insights and solve real-world problems.
 
